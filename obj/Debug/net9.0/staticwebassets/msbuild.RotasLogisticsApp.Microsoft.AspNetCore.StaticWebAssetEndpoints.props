@@ -1,16 +1,16 @@
 ﻿<Project>
   <ItemGroup>
-    <StaticWebAssetEndpoint Include="_content/RotasLogisticsApp/css/site.ax8eh8kev1.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ax8eh8kev1"},{"Name":"integrity","Value":"sha256-rrV62Lme39kfKiBvfB7FceZrZcESoE3gJcCjcRWHYm4="},{"Name":"label","Value":"_content/RotasLogisticsApp/css/site.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2134"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022rrV62Lme39kfKiBvfB7FceZrZcESoE3gJcCjcRWHYm4=\u0022"},{"Name":"Last-Modified","Value":"Sat, 18 Oct 2025 05:57:49 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/RotasLogisticsApp/css/site.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-rrV62Lme39kfKiBvfB7FceZrZcESoE3gJcCjcRWHYm4="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2134"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022rrV62Lme39kfKiBvfB7FceZrZcESoE3gJcCjcRWHYm4=\u0022"},{"Name":"Last-Modified","Value":"Sat, 18 Oct 2025 05:57:49 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-vbJ40o03aO4xX4XFHP3Wu7hUdNNs9N4/7md\u002BiLqmfJI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2672"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022vbJ40o03aO4xX4XFHP3Wu7hUdNNs9N4/7md\u002BiLqmfJI=\u0022"},{"Name":"Last-Modified","Value":"Sat, 18 Oct 2025 06:11:28 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/RotasLogisticsApp/css/site.xnqjhpjj4r.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xnqjhpjj4r"},{"Name":"integrity","Value":"sha256-vbJ40o03aO4xX4XFHP3Wu7hUdNNs9N4/7md\u002BiLqmfJI="},{"Name":"label","Value":"_content/RotasLogisticsApp/css/site.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2672"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022vbJ40o03aO4xX4XFHP3Wu7hUdNNs9N4/7md\u002BiLqmfJI=\u0022"},{"Name":"Last-Modified","Value":"Sat, 18 Oct 2025 06:11:28 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/RotasLogisticsApp/favicon.61n19gt1b8.ico">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</AssetFile>

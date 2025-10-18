@@ -18,7 +18,8 @@ html {
 }
 
 body {
-  margin-bottom: 60px;
+  margin-bottom: 0;
+  padding-bottom: 0;
 }
 
 .form-floating > .form-control-plaintext::placeholder, .form-floating > .form-control::placeholder {
@@ -95,16 +96,34 @@ body {
 .navbar {
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   transition: all 0.3s ease;
+  z-index: 1030;
 }
 
 .navbar.sticky-top {
-  background-color: rgba(255, 255, 255, 0.95) !important;
+  background-color: rgba(102, 126, 234, 0.95) !important;
   backdrop-filter: blur(10px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+}
+
+.navbar.sticky-top .navbar-brand {
+  color: white !important;
+}
+
+.navbar.sticky-top .nav-link {
+  color: white !important;
+  font-weight: 500;
+}
+
+.navbar.sticky-top .nav-link:hover {
+  color: #f8f9fa !important;
 }
 
 .footer {
-  background-color: #343a40;
+  background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
   border-top: 1px solid #dee2e6;
+  margin-top: auto;
+  position: relative;
+  z-index: 1;
 }
 
 .footer .social-links a {
@@ -137,6 +156,17 @@ body {
   background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
 }
 
+/* Layout fixes */
+main {
+  min-height: calc(100vh - 200px);
+  padding-bottom: 2rem;
+}
+
+.container {
+  position: relative;
+  z-index: 1;
+}
+
 /* Responsive adjustments */
 @media (max-width: 768px) {
   .hero-section {
@@ -145,5 +175,9 @@ body {
   
   .hero-section h1 {
     font-size: 2.5rem;
+  }
+  
+  .navbar.sticky-top {
+    background-color: rgba(102, 126, 234, 0.98) !important;
   }
 }
