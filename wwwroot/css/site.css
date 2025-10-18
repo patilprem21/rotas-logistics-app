@@ -38,6 +38,13 @@ body {
   margin-top: -20px;
 }
 
+.hero-section-about {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 100px 0;
+  margin-top: -20px;
+}
+
 .hero-section h1 {
   color: white !important;
 }
@@ -87,11 +94,33 @@ body {
 
 .navbar {
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+}
+
+.navbar.sticky-top {
+  background-color: rgba(255, 255, 255, 0.95) !important;
+  backdrop-filter: blur(10px);
 }
 
 .footer {
-  background-color: #f8f9fa;
+  background-color: #343a40;
   border-top: 1px solid #dee2e6;
+}
+
+.footer .social-links a {
+  transition: color 0.3s ease;
+}
+
+.footer .social-links a:hover {
+  color: #667eea !important;
+}
+
+.footer a {
+  transition: color 0.3s ease;
+}
+
+.footer a:hover {
+  color: #667eea !important;
 }
 
 /* Animation for icons */

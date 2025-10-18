@@ -17,7 +17,6 @@ C:\Users\ACER\Desktop\Edu-Masters\RotasLogisticsApp\obj\Debug\net9.0\RotasLogist
 C:\Users\ACER\Desktop\Edu-Masters\RotasLogisticsApp\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\ACER\Desktop\Edu-Masters\RotasLogisticsApp\obj\Debug\net9.0\scopedcss\bundle\RotasLogisticsApp.styles.css
 C:\Users\ACER\Desktop\Edu-Masters\RotasLogisticsApp\obj\Debug\net9.0\scopedcss\projectbundle\RotasLogisticsApp.bundle.scp.css
-C:\Users\ACER\Desktop\Edu-Masters\RotasLogisticsApp\obj\Debug\net9.0\compressed\jat9a4ficr-b9sayid5wm.gz
 C:\Users\ACER\Desktop\Edu-Masters\RotasLogisticsApp\obj\Debug\net9.0\compressed\m7knp7p27i-61n19gt1b8.gz
 C:\Users\ACER\Desktop\Edu-Masters\RotasLogisticsApp\obj\Debug\net9.0\compressed\b8mdwa9xnx-xtxxf3hu2r.gz
 C:\Users\ACER\Desktop\Edu-Masters\RotasLogisticsApp\obj\Debug\net9.0\compressed\6amp9w1fw1-bqjiyaj88i.gz
@@ -95,3 +94,5 @@ C:\Users\ACER\Desktop\Edu-Masters\RotasLogisticsApp\obj\Debug\net9.0\refint\Rota
 C:\Users\ACER\Desktop\Edu-Masters\RotasLogisticsApp\obj\Debug\net9.0\RotasLogisticsApp.pdb
 C:\Users\ACER\Desktop\Edu-Masters\RotasLogisticsApp\obj\Debug\net9.0\RotasLogisticsApp.genruntimeconfig.cache
 C:\Users\ACER\Desktop\Edu-Masters\RotasLogisticsApp\obj\Debug\net9.0\ref\RotasLogisticsApp.dll
+C:\Users\ACER\Desktop\Edu-Masters\RotasLogisticsApp\obj\Debug\net9.0\RotasLogisticsApp.sourcelink.json
+C:\Users\ACER\Desktop\Edu-Masters\RotasLogisticsApp\obj\Debug\net9.0\compressed\jat9a4ficr-ax8eh8kev1.gz
