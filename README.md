@@ -181,24 +181,3 @@ RotasLogisticsApp/
 | Create Azure Container Registry | ❌ Pending | Requires Azure subscription |
 | Check in to Azure Repos | ✅ Complete | Pushed to GitHub |
 | Create Azure Pipeline | ❌ Pending | Requires Azure subscription |
-
-## 🚀 Next Steps for Full Completion
-
-1. **Get Azure Subscription**: Sign up for free Azure account
-2. **Create ACR**: Follow Step 1 commands above
-3. **Push to ACR**: Follow Step 2 commands above
-4. **Create Pipeline**: Follow Step 3 and 4 above
-5. **Test Deployment**: Verify end-to-end deployment
-
-## 📞 Support
-
-For questions about this project:
-- **GitHub Issues**: Create issue in repository
-- **Documentation**: Check Azure DevOps documentation
-- **Docker**: Refer to Docker official documentation
-
----
-
-**Project Created**: January 2025  
-**Technology Stack**: ASP.NET Core 9.0, Docker, Azure DevOps  
-**Assignment**: Azure DevOps Module 6 - Implementing Deployment Models and Services
