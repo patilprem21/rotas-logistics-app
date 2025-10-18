@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RotasLogisticsApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4185b9a4b954c0e242b0b43a4002824a03ccad3b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad06cc5d8a7e881b98dbbc7df3ad15a7d9e14026")]
 [assembly: System.Reflection.AssemblyProductAttribute("RotasLogisticsApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RotasLogisticsApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "g1Ae/ZfW4sU/bCdx6pZrYgwd2oWSV/fRakeSnSPiA40=",
+  "Hash": "Q6cShENzIcyWbXT9ndfD8xzlXHiZO9gwFX7zY5XA8ck=",
   "Source": "RotasLogisticsApp",
   "BasePath": "_content/RotasLogisticsApp",
   "Mode": "Default",
@@ -668,12 +668,12 @@
       "OriginalItemSpec": "C:\\Users\\ACER\\Desktop\\Edu-Masters\\RotasLogisticsApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\ACER\\Desktop\\Edu-Masters\\RotasLogisticsApp\\obj\\Debug\\net9.0\\compressed\\jat9a4ficr-ses2wgk56f.gz",
+      "Identity": "C:\\Users\\ACER\\Desktop\\Edu-Masters\\RotasLogisticsApp\\obj\\Debug\\net9.0\\compressed\\jat9a4ficr-2ou7oe96oa.gz",
       "SourceId": "RotasLogisticsApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\ACER\\Desktop\\Edu-Masters\\RotasLogisticsApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/RotasLogisticsApp",
-      "RelativePath": "css/site#[.{fingerprint=ses2wgk56f}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=2ou7oe96oa}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -682,8 +682,8 @@
       "RelatedAsset": "C:\\Users\\ACER\\Desktop\\Edu-Masters\\RotasLogisticsApp\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "imlk6pgm4m",
-      "Integrity": "hgtXOMciNK6X9ODeXvikQSRu1vg3iJmePK6cM5fMFHs=",
+      "Fingerprint": "82mejh26je",
+      "Integrity": "MN70NLgDYfMr8iAL9zjAqQvHRzwLvQqVmpHdx8Iapv4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\ACER\\Desktop\\Edu-Masters\\RotasLogisticsApp\\wwwroot\\css\\site.css"
@@ -1417,8 +1417,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ses2wgk56f",
-      "Integrity": "VNzWiGaXGG4oG7dqVPHZvmwiIUN7sIFzIjGKucloHKg=",
+      "Fingerprint": "2ou7oe96oa",
+      "Integrity": "/kjh1J+ZEvGBbt383zDH8Cw4kmmzy5KkhtIA/gYsaRQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -2728,13 +2728,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\ACER\\Desktop\\Edu-Masters\\RotasLogisticsApp\\obj\\Debug\\net9.0\\compressed\\jat9a4ficr-ses2wgk56f.gz",
+      "Route": "css/site.2ou7oe96oa.css",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\Edu-Masters\\RotasLogisticsApp\\obj\\Debug\\net9.0\\compressed\\jat9a4ficr-2ou7oe96oa.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000981354269"
+          "Quality": "0.000924214418"
         }
       ],
       "ResponseHeaders": [
@@ -2744,19 +2744,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1018"
+          "Value": "1081"
         },
         {
           "Name": "ETag",
-          "Value": "\"hgtXOMciNK6X9ODeXvikQSRu1vg3iJmePK6cM5fMFHs=\""
+          "Value": "\"MN70NLgDYfMr8iAL9zjAqQvHRzwLvQqVmpHdx8Iapv4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 18 Oct 2025 06:15:52 GMT"
+          "Value": "Sat, 18 Oct 2025 06:21:19 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -2772,18 +2772,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"VNzWiGaXGG4oG7dqVPHZvmwiIUN7sIFzIjGKucloHKg=\""
+          "Value": "W/\"/kjh1J+ZEvGBbt383zDH8Cw4kmmzy5KkhtIA/gYsaRQ=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "2ou7oe96oa"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-VNzWiGaXGG4oG7dqVPHZvmwiIUN7sIFzIjGKucloHKg="
+          "Value": "sha256-/kjh1J+ZEvGBbt383zDH8Cw4kmmzy5KkhtIA/gYsaRQ="
         }
       ]
     },
     {
-      "Route": "css/site.css",
+      "Route": "css/site.2ou7oe96oa.css",
       "AssetFile": "C:\\Users\\ACER\\Desktop\\Edu-Masters\\RotasLogisticsApp\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2793,7 +2801,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3323"
+          "Value": "3534"
         },
         {
           "Name": "Content-Type",
@@ -2801,121 +2809,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"VNzWiGaXGG4oG7dqVPHZvmwiIUN7sIFzIjGKucloHKg=\""
+          "Value": "\"/kjh1J+ZEvGBbt383zDH8Cw4kmmzy5KkhtIA/gYsaRQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 18 Oct 2025 06:15:52 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-VNzWiGaXGG4oG7dqVPHZvmwiIUN7sIFzIjGKucloHKg="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css.gz",
-      "AssetFile": "C:\\Users\\ACER\\Desktop\\Edu-Masters\\RotasLogisticsApp\\obj\\Debug\\net9.0\\compressed\\jat9a4ficr-ses2wgk56f.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1018"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"hgtXOMciNK6X9ODeXvikQSRu1vg3iJmePK6cM5fMFHs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 18 Oct 2025 06:15:52 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-hgtXOMciNK6X9ODeXvikQSRu1vg3iJmePK6cM5fMFHs="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.ses2wgk56f.css",
-      "AssetFile": "C:\\Users\\ACER\\Desktop\\Edu-Masters\\RotasLogisticsApp\\obj\\Debug\\net9.0\\compressed\\jat9a4ficr-ses2wgk56f.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000981354269"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1018"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"hgtXOMciNK6X9ODeXvikQSRu1vg3iJmePK6cM5fMFHs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 18 Oct 2025 06:15:52 GMT"
+          "Value": "Sat, 18 Oct 2025 06:21:19 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"VNzWiGaXGG4oG7dqVPHZvmwiIUN7sIFzIjGKucloHKg=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ses2wgk56f"
+          "Value": "2ou7oe96oa"
         },
         {
           "Name": "label",
@@ -2923,13 +2831,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-VNzWiGaXGG4oG7dqVPHZvmwiIUN7sIFzIjGKucloHKg="
+          "Value": "sha256-/kjh1J+ZEvGBbt383zDH8Cw4kmmzy5KkhtIA/gYsaRQ="
         }
       ]
     },
     {
-      "Route": "css/site.ses2wgk56f.css",
-      "AssetFile": "C:\\Users\\ACER\\Desktop\\Edu-Masters\\RotasLogisticsApp\\wwwroot\\css\\site.css",
+      "Route": "css/site.2ou7oe96oa.css.gz",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\Edu-Masters\\RotasLogisticsApp\\obj\\Debug\\net9.0\\compressed\\jat9a4ficr-2ou7oe96oa.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2938,7 +2846,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3323"
+          "Value": "1081"
         },
         {
           "Name": "Content-Type",
@@ -2946,56 +2854,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"VNzWiGaXGG4oG7dqVPHZvmwiIUN7sIFzIjGKucloHKg=\""
+          "Value": "\"MN70NLgDYfMr8iAL9zjAqQvHRzwLvQqVmpHdx8Iapv4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 18 Oct 2025 06:15:52 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ses2wgk56f"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-VNzWiGaXGG4oG7dqVPHZvmwiIUN7sIFzIjGKucloHKg="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.ses2wgk56f.css.gz",
-      "AssetFile": "C:\\Users\\ACER\\Desktop\\Edu-Masters\\RotasLogisticsApp\\obj\\Debug\\net9.0\\compressed\\jat9a4ficr-ses2wgk56f.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1018"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"hgtXOMciNK6X9ODeXvikQSRu1vg3iJmePK6cM5fMFHs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 18 Oct 2025 06:15:52 GMT"
+          "Value": "Sat, 18 Oct 2025 06:21:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3013,7 +2876,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ses2wgk56f"
+          "Value": "2ou7oe96oa"
         },
         {
           "Name": "label",
@@ -3021,7 +2884,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-hgtXOMciNK6X9ODeXvikQSRu1vg3iJmePK6cM5fMFHs="
+          "Value": "sha256-MN70NLgDYfMr8iAL9zjAqQvHRzwLvQqVmpHdx8Iapv4="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\Edu-Masters\\RotasLogisticsApp\\obj\\Debug\\net9.0\\compressed\\jat9a4ficr-2ou7oe96oa.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000924214418"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1081"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MN70NLgDYfMr8iAL9zjAqQvHRzwLvQqVmpHdx8Iapv4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 18 Oct 2025 06:21:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"/kjh1J+ZEvGBbt383zDH8Cw4kmmzy5KkhtIA/gYsaRQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/kjh1J+ZEvGBbt383zDH8Cw4kmmzy5KkhtIA/gYsaRQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\Edu-Masters\\RotasLogisticsApp\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3534"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/kjh1J+ZEvGBbt383zDH8Cw4kmmzy5KkhtIA/gYsaRQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 18 Oct 2025 06:21:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/kjh1J+ZEvGBbt383zDH8Cw4kmmzy5KkhtIA/gYsaRQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css.gz",
+      "AssetFile": "C:\\Users\\ACER\\Desktop\\Edu-Masters\\RotasLogisticsApp\\obj\\Debug\\net9.0\\compressed\\jat9a4ficr-2ou7oe96oa.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1081"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MN70NLgDYfMr8iAL9zjAqQvHRzwLvQqVmpHdx8Iapv4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 18 Oct 2025 06:21:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MN70NLgDYfMr8iAL9zjAqQvHRzwLvQqVmpHdx8Iapv4="
         }
       ]
     },
