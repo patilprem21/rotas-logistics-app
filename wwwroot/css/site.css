@@ -20,6 +20,9 @@ html {
 body {
   margin-bottom: 0;
   padding-bottom: 0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 
 .form-floating > .form-control-plaintext::placeholder, .form-floating > .form-control::placeholder {
@@ -99,22 +102,28 @@ body {
   z-index: 1030;
 }
 
-.navbar.sticky-top {
+header.sticky-top {
+  position: sticky !important;
+  top: 0;
+  z-index: 1030;
+}
+
+header.sticky-top .navbar {
   background-color: rgba(102, 126, 234, 0.95) !important;
   backdrop-filter: blur(10px);
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
 }
 
-.navbar.sticky-top .navbar-brand {
+header.sticky-top .navbar-brand {
   color: white !important;
 }
 
-.navbar.sticky-top .nav-link {
+header.sticky-top .nav-link {
   color: white !important;
   font-weight: 500;
 }
 
-.navbar.sticky-top .nav-link:hover {
+header.sticky-top .nav-link:hover {
   color: #f8f9fa !important;
 }
 
@@ -124,6 +133,7 @@ body {
   margin-top: auto;
   position: relative;
   z-index: 1;
+  clear: both;
 }
 
 .footer .social-links a {
@@ -158,13 +168,18 @@ body {
 
 /* Layout fixes */
 main {
-  min-height: calc(100vh - 200px);
-  padding-bottom: 2rem;
+  flex: 1;
+  padding-bottom: 3rem;
+  margin-bottom: 2rem;
 }
 
 .container {
   position: relative;
   z-index: 1;
+}
+
+.container-fluid {
+  flex: 1;
 }
 
 /* Responsive adjustments */
