@@ -1,10 +1,118 @@
 ﻿@page
 @model IndexModel
 @{
-    ViewData["Title"] = "Home page";
+    ViewData["Title"] = "Rotas Logistics - Home";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div class="hero-section">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-6">
+                <h1 class="display-4 fw-bold text-primary">Rotas Logistics</h1>
+                <p class="lead">Your trusted partner for efficient cargo transportation and logistics solutions.</p>
+                <p class="mb-4">We provide reliable, scalable logistics services that grow with your business needs.</p>
+                <div class="d-grid gap-2 d-md-flex">
+                    <a class="btn btn-primary btn-lg" href="#services">Our Services</a>
+                    <a class="btn btn-outline-primary btn-lg" href="#contact">Get Quote</a>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="text-center">
+                    <i class="fas fa-truck fa-10x text-primary"></i>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
+
+<section id="services" class="py-5">
+    <div class="container">
+        <h2 class="text-center mb-5">Our Services</h2>
+        <div class="row">
+            <div class="col-md-4 mb-4">
+                <div class="card h-100">
+                    <div class="card-body text-center">
+                        <i class="fas fa-shipping-fast fa-3x text-primary mb-3"></i>
+                        <h5 class="card-title">Express Delivery</h5>
+                        <p class="card-text">Fast and reliable delivery services for time-sensitive shipments.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-4">
+                <div class="card h-100">
+                    <div class="card-body text-center">
+                        <i class="fas fa-warehouse fa-3x text-primary mb-3"></i>
+                        <h5 class="card-title">Warehouse Management</h5>
+                        <p class="card-text">Comprehensive warehouse solutions with real-time inventory tracking.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-4">
+                <div class="card h-100">
+                    <div class="card-body text-center">
+                        <i class="fas fa-route fa-3x text-primary mb-3"></i>
+                        <h5 class="card-title">Route Optimization</h5>
+                        <p class="card-text">AI-powered route planning for maximum efficiency and cost savings.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="stats" class="py-5 bg-light">
+    <div class="container">
+        <div class="row text-center">
+            <div class="col-md-3">
+                <h3 class="text-primary">500+</h3>
+                <p>Active Routes</p>
+            </div>
+            <div class="col-md-3">
+                <h3 class="text-primary">99.8%</h3>
+                <p>On-Time Delivery</p>
+            </div>
+            <div class="col-md-3">
+                <h3 class="text-primary">24/7</h3>
+                <p>Customer Support</p>
+            </div>
+            <div class="col-md-3">
+                <h3 class="text-primary">50+</h3>
+                <p>Countries Served</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="contact" class="py-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 mx-auto text-center">
+                <h2>Ready to Ship?</h2>
+                <p class="lead">Get a quote for your logistics needs</p>
+                <div class="row">
+                    <div class="col-md-6 mb-3">
+                        <div class="card">
+                            <div class="card-body">
+                                <h5 class="card-title">Track Your Shipment</h5>
+                                <p class="card-text">Enter your tracking number to get real-time updates.</p>
+                                <div class="input-group">
+                                    <input type="text" class="form-control" placeholder="Enter tracking number">
+                                    <button class="btn btn-primary" type="button">Track</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 mb-3">
+                        <div class="card">
+                            <div class="card-body">
+                                <h5 class="card-title">Get Quote</h5>
+                                <p class="card-text">Calculate shipping costs instantly.</p>
+                                <button class="btn btn-outline-primary">Get Quote</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
