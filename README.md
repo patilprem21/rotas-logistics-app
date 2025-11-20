@@ -3,7 +3,7 @@
 ## 📋 Project Overview
 This project demonstrates **Docker-based deployment** for Rotas Inc., a logistics company that needs to scale their website based on traffic load. The application is built using ASP.NET Core and containerized with Docker for scalable deployment.
 
-## ✅ What We've Completed
+## ✅ What We've Completedss
 
 ### 1. **ASP.NET Core Application**
 - ✅ Created `RotasLogisticsApp` using ASP.NET Core 9.0
